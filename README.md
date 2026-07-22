@@ -27,7 +27,7 @@ Memahami urutan eksekusi query SQL
 
 <p> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Database-Learning-orange?style=for-the-badge"/> </p>
 
-📂 Project Structure
+## 📂 Project Structure
 learning-sql-basics/
 │
 ├── README.md
