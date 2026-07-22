@@ -310,11 +310,6 @@ Memahami urutan ini sangat penting agar lebih mudah melakukan debugging dan memb
 
 ---
 
-## 📚 References
-- SQL Documentation
-- MySQL Documentation
-- PostgreSQL Documentation
-
 # 🎯 Kesimpulan
 
 Materi dasar SQL yang dipelajari meliputi:
@@ -331,3 +326,8 @@ Materi dasar SQL yang dipelajari meliputi:
 * Memfilter hasil agregasi menggunakan `HAVING`
 
 Penguasaan query dasar ini merupakan fondasi sebelum mempelajari materi SQL yang lebih lanjut seperti `JOIN`, `Subquery`, `CTE`, `Window Function`, dan optimasi query.
+
+## 📚 References
+- SQL Documentation
+- MySQL Documentation
+- PostgreSQL Documentation
