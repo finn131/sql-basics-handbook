@@ -1,14 +1,9 @@
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/finn131/REPO?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/finn131/REPO?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/finn131/REPO?style=for-the-badge">
-</p>
-
 <h1 align="center">📚 SQL Basic Queries</h1>
 
 <p align="center">
 Repository untuk belajar fundamental SQL mulai dari SELECT hingga GROUP BY dan HAVING.
 </p>
+
 
 ## 📌 Deskripsi
 
